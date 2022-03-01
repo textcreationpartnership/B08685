@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a good woman</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08685</idno>
+            <idno type="STC">Wing C1974A</idno>
+            <idno type="STC">ESTC R224611</idno>
+            <idno type="EEBO-CITATION">64551058</idno>
+            <idno type="OCLC">ocm 64551058</idno>
+            <idno type="VID">184439</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184439)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a good woman</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Publication data suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Conduct of life --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="character">
+            <pb facs="tcp:184439:1" rendition="simple:additions"/>
+            <head>The Character OF A GOOD WOMAN.</head>
+            <lg>
+               <l>SHou'd my preſumptuous <hi>Muſe</hi> pretend to draw</l>
+               <l>A <hi>Woman,</hi> which few Ages ever ſaw;</l>
+               <l>Like bold <hi>Prometheus,</hi> ſhe muſt rob the Skies,</l>
+               <l>To ſhew what <hi>Nature</hi> did of old deviſe:</l>
+               <l>How <hi>GOD,</hi> to make One abſolutely True,</l>
+               <l>A Pious <hi>ANNE,</hi> or Bleſſed VIRGIN drew;</l>
+               <l>On whom the Vertues ſo profuſely thrown,</l>
+               <l>Are ſince but-ſeldom, and but thinly ſown:</l>
+               <l>As if the Maker had turn'd Prodigal,</l>
+               <l>And in creating Thoſe, exhauſted All.</l>
+               <l>Hence then, <hi>Profaneneſs,</hi> and no more diſperſe</l>
+               <l>Your ſawcy Cenſures in detracting Verſe:</l>
+               <l>No more let <hi>Eve</hi> the Female Glories ſtain,</l>
+               <l>Since what ſhe loſt, Another did regain:</l>
+               <l>One, by whoſe Life it's plainly underſtood,</l>
+               <l>
+                  <hi>'Tis poſſible a Woman may be Good:</hi>
+               </l>
+               <l>Who has no Minute, no ſmall Sand to ſpare,</l>
+               <l>And throw on idle, ſuperſtitious Care:</l>
+               <l>Nor does ſhe ſpend the Fragment of a Day,</l>
+               <l>Like a Court-Lady, at a Ball or Play:</l>
+               <l>Her Life's a Sacred Book, that teaches more</l>
+               <l>Than Ten Fanaticks, that in Pulpits rore.</l>
+               <l>Her Church is ev'ry where; ſo oft ſhe prays,</l>
+               <l>That where ſhe treads, ſhe conſecrates the Place.</l>
+               <l>So oft her Soul in pious Raptures flies,</l>
+               <l>She lodges here, but lives within the Skies.</l>
+               <l>Her Thoughts are ſtaid, and in a Circle run,</l>
+               <l>Obſequious, buſie, conſtant as the Sun,</l>
+               <l>Yet clear without his Spots; and like his Ray,</l>
+               <l>Round all the Heav'ns ſhe travels in a Day,</l>
+               <l>Her Contemplation treads a brighter Way.</l>
+               <l>She views each ſhining Saint, their Counſel knows,</l>
+               <l>When Night perſwades her to a ſweet Repoſe,</l>
+               <l>Her Soul, which in ſoft Slumbers had retir'd,</l>
+               <l>New ſprung from Angels Breath returns inſpir'd.</l>
+               <l>Early ſhe wakes, and puts the Moon to flight,</l>
+               <l>Who drives her Coach away, and thinks the Night</l>
+               <l>Can need no other Help, no better Light.</l>
+               <pb facs="tcp:184439:2" rendition="simple:additions"/>
+               <l>
+                  <hi>Aurora,</hi> bluſhing, knows her Time to riſe,</l>
+               <l>Not by the prattling Birds, but by her Eyes;</l>
+               <l>Which open, e'er the watchful Cock proclaims</l>
+               <l>The Dawning of the Sun's approaching Flames.</l>
+               <l>Then firſt tow'rds Heav'n her eager Thoughts aſpire,</l>
+               <l>With burning Zeal, and a devout Deſire;</l>
+               <l>Her Pray'rs, like <hi>Mano<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>'s Angel, mount in Fire.</l>
+               <l>When <hi>True Religion,</hi> like a welcom Gueſt,</l>
+               <l>Takes up her Lodging in a Noble Breaſt,</l>
+               <l>The Troop of <hi>Vertues</hi> haſten at her Call,</l>
+               <l>As at the Summons of a General.</l>
+               <l>Thus arm'd within, the Female Saint neglects</l>
+               <l>That outward Tinſel which adorns her Sex:</l>
+               <l>For if Dame <hi>Nature,</hi> in a careleſs Haſte,</l>
+               <l>Has fram'd her of a courſe, unfaſhion'd Paſte;</l>
+               <l>Her Vertue recompenſes that Miſcare:</l>
+               <l>
+                  <hi>Religious Deformity is Fair.</hi>
+               </l>
+               <l>But if, to ſhew his Excellence and Art,</l>
+               <l>What at a ſtretch his Pencil could impart,</l>
+               <l>The God ſhou'd draw fine Colours on her Face,</l>
+               <l>And lock a Jewel in a Silver Caſe;</l>
+               <l>She thanks her Maker on a double ſcore,</l>
+               <l>Much for her <hi>Beauty,</hi> for her <hi>Vertue</hi> more.</l>
+               <l>Chaſte, humble, courteous, ſober, ſilent, wiſe,</l>
+               <l>Brisk, but not wanton; grave, but not preciſe:</l>
+               <l>Sincere, forgiving, honeſt, juſt, content,</l>
+               <l>Gall-leſs as Doves, and like them innocent:</l>
+               <l>So meek and patient, that, while ſhe lives here,</l>
+               <l>Nor <hi>Job</hi> nor <hi>Moſes</hi> can be ſingular.</l>
+               <l>Her Charity's diffuſive, unconfin'd,</l>
+               <l>Flies far and near, like a refreſhing Wind,</l>
+               <l>And like the wide-ſpread Sun-beams, warms Mankind:</l>
+               <l>She counts This a Diverſion far above</l>
+               <l>The falſe Delights of Wantonneſs and Love.</l>
+               <l>
+                  <hi>'Tis true, ſubſtantial Joy, to ſeed the Poor;</hi>
+               </l>
+               <l>
+                  <hi>The Charitable is an Epicure.</hi>
+               </l>
+               <l>Her Tongue, that common Ill of Womankind,</l>
+               <l>Yields to the nobler Language of the Mind.</l>
+               <l>Her Life's a Miracle; her Zeal, a Flame;</l>
+               <l>That burns for ever, and is ſtill <hi>the Same.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Baldwin</hi> near the <hi>Oxford-Arms</hi>-Inn in <hi>Warwick-lane.</hi>
+            </p>
+            <p>Where alſo may be had, <hi>The Character of a Bad Woman.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
